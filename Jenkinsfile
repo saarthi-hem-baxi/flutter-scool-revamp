@@ -25,8 +25,8 @@ pipeline {
         stage(' Use.env from S3') {
             steps {
                 script {
-                    sh 'aws s3 cp .env s3://saarthidevenvironment/mobile-applications/students/.env /var/lib/jenkins/workspace/student-flutter-pipeline/'
-                    sh 'aws s3 cp .env s3://saarthidevenvironment/mobile-applications/students/.env.review /var/lib/jenkins/workspace/student-flutter-pipeline/'
+                    sh 'aws s3 cp .env s3://saarthidevenvironment/mobile-applications/students/.env /var/lib/jenkins/workspace/student-revamp/.env'
+                    sh 'aws s3 cp .env s3://saarthidevenvironment/mobile-applications/students/.env.review /var/lib/jenkins/workspace/student-revamp/.env.review'
                 }
             }
         }
