@@ -53,8 +53,8 @@ pipeline {
         stage('Flutter Setup') {
             steps {
                 script {
-                    sh 'flutter clean'
-                    sh 'flutter pub get'
+                    sh 'sudo flutter clean'
+                    sh 'sudo flutter pub get'
                 }
             }
         }
