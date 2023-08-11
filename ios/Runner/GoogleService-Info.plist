@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1880302412-k7u8u3mlb0d2slvvr4u3mvajohqr63vb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFxGn_FTztqM_jUahdlJ6qb8kFKqB16wc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1880302412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saarthipedagogy.studentsv2</string>
+	<key>PROJECT_ID</key>
+	<string>saarthi-pedagogy-a2936</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saarthi-pedagogy-a2936.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1880302412:ios:1998e83cdf434e77fea5e9</string>
+	<key>DATABASE_URL</key>
+	<string>https://saarthi-pedagogy-a2936.firebaseio.com</string>
+</dict>
+</plist>

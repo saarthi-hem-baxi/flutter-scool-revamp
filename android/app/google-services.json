@@ -1,0 +1,295 @@
+{
+  "project_info": {
+    "project_number": "1880302412",
+    "firebase_url": "https://saarthi-pedagogy-a2936.firebaseio.com",
+    "project_id": "saarthi-pedagogy-a2936",
+    "storage_bucket": "saarthi-pedagogy-a2936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:58f6e381f94e17d7fea5e9",
+        "android_client_info": {
+          "package_name": "com.digitalguru.franchisestudents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:e83b22bca3ff19b4fea5e9",
+        "android_client_info": {
+          "package_name": "com.h3preschool.pedagogy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:7867f20decd108f9",
+        "android_client_info": {
+          "package_name": "com.saarthipedagogy.pedagogy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-qjeao2tta4iipv8qoi1uigk70o1be1d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saarthipedagogy.pedagogy",
+            "certificate_hash": "017d5a53d3811578d61a6937d33a8c2610612bf3"
+          }
+        },
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:8ea6ed4fce4a96a0",
+        "android_client_info": {
+          "package_name": "com.saarthipedagogy.students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-qauq4681fnkblljlafdo6hlj0r0jquf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saarthipedagogy.students",
+            "certificate_hash": "2dd0cff1f151ac9d30a11e0ab5b9c3f7ab63a004"
+          }
+        },
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:2001ce818fd9b68cfea5e9",
+        "android_client_info": {
+          "package_name": "com.saarthipedagogy.studentsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-k7u8u3mlb0d2slvvr4u3mvajohqr63vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saarthipedagogy.studentsv2",
+            "certificate_hash": "2cec6ad1a2eb3acf3a6f397f4f1d4b5e5b4331dd"
+          }
+        },
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:8ca81016865180f0fea5e9",
+        "android_client_info": {
+          "package_name": "com.saarthipedagogy.teachers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1880302412:android:f56398878e0b09bdfea5e9",
+        "android_client_info": {
+          "package_name": "com.saarthipedagogy.teachersv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1880302412-q9ko883i93b57pbren4tf6lht8iatlus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saarthipedagogy.teachersv2",
+            "certificate_hash": "2cec6ad1a2eb3acf3a6f397f4f1d4b5e5b4331dd"
+          }
+        },
+        {
+          "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1880302412-0i3ldtquafe08tr3opjv7q7nrgm1ik91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saarthipedagogy.studentsv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

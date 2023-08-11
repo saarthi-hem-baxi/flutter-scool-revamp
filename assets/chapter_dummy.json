@@ -1,0 +1,142 @@
+{
+    "quarters":[
+        {
+            "title":"QUARTER 1",
+            "months":[
+                {
+                    "month":"JUN",
+                    "chapters":[
+                        {
+                            "chapter_name":"Why are elections important ? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+                            "obtain_mark":14,
+                            "total_mark":14
+                        },
+                        {
+                            "chapter_name":"Weather, Climate and Adaptations of Animals of Climate",
+                            "obtain_mark":8,
+                            "total_mark":8
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "title":"QUARTER 2",
+            "months":[
+                {
+                    "month":"JUL",
+                    "chapters":[
+                        {
+                            "chapter_name":"Weather, Climate and Adaptations of Animals of Climate",
+                            "obtain_mark":8,
+                            "total_mark":8
+                        },
+                        {
+                            "chapter_name":"Acids, Bases and Salts",
+                            "obtain_mark":0,
+                            "total_mark":21
+                        }
+                    ]
+                },
+                {
+                    "month":"AUG",
+                    "chapters":[
+                        {
+                            "chapter_name":"Respiration in Organisms",
+                            "obtain_mark":20,
+                            "total_mark":20
+                        },
+                        {
+                            "chapter_name":"Transportation animals and plants",
+                            "obtain_mark":10,
+                            "total_mark":14
+                        }
+                    ]
+                },
+                {
+                    "month":"SEP",
+                    "chapters":[
+                        {
+                            "chapter_name":"Motion And Time",
+                            "obtain_mark":0,
+                            "total_mark":27
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "title":"QUARTER 3",
+            "months":[
+                {
+                    "month":"OCT",
+                    "chapters":[
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":10,
+                            "total_mark":14
+                        },
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":0,
+                            "total_mark":34
+                        }
+                    ]
+                },
+                {
+                    "month":"NOV",
+                    "chapters":[
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":10,
+                            "total_mark":14
+                        }
+                    ]
+                },
+                {
+                    "month":"DEC",
+                    "chapters":[
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":21,
+                            "total_mark":21
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "title":"QUARTER 4",
+            "months":[
+                {
+                    "month":"JAN",
+                    "chapters":[
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":21,
+                            "total_mark":21
+                        }
+                    ]
+                },
+                {
+                    "month":"FEB",
+                    "chapters":[
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":0,
+                            "total_mark":8
+                        },
+                        {
+                            "chapter_name":"Reproduction in plants",
+                            "obtain_mark":0,
+                            "total_mark":18
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

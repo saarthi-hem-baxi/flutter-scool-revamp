@@ -1,0 +1,194 @@
+{
+    "data":[
+        {
+            "date":"05 January 2023",
+            "messages":[
+                {
+                    "user_name":"Saarthi Pedagogy",
+                    "message":"It is a long established fact that a reader will be distracted a long exam fact that a reader will be distracted by the readable content of a page example looking at its layout. The point of using Lorem Ipsum is that it ha f using Lorem. It is a long established fact that a reader will be distracted a long exam fact that a reader will be distracted by the readable content of a page example looking at its layout. The point of using Lorem Ipsum is that it ha f using Lorem.",
+                    "time":"1:30 PM",    
+                    "media":[
+                        {
+                            "media_type":"pdf",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053032315-2-digit-addition-answerkey.pdf",
+                            "thumb_url":""
+                        }
+                    ]
+                },
+                {
+                    "user_name":"Radhika Mishra ma’am",
+                    "message":"It is a long established fact that a reader will be distracted",
+                    "time":"3:40 AM",
+                    "media":[
+                        {
+                            "media_type":"pdf",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053032315-2-digit-addition-answerkey.pdf",
+                            "thumb_url":""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date":"16 february 2023",
+            "messages":[
+                {
+                    "user_name":"Paresh Rana sir",
+                    "message":"It is a long established fact that",
+                    "time":"10:45 AM",
+                    "media":[
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"pdf",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053032315-2-digit-addition-answerkey.pdf",
+                            "thumb_url":""
+                        }
+                    ]
+                },
+                {
+                    "user_name":"Maharaja Agrsen Public School",
+                    "message":"It is a long established fact that a reader will be distracted",
+                    "time":"12:00 AM",
+                    "media":[
+                        {
+                            "media_type":"video",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053371086-big_buck_bunny_720p_5mb.mp4",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"video",
+                            "medial_url":"https://www.youtube.com/watch?v=mkggXE5e2yk",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"docx",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053530011-grade-3-order-operations-add-sub-3-a.docx",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"audio",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052999180-file_example_MP3_700KB.mp3",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "date":"20 february 2023",
+            "messages":[
+                {
+                    "user_name":"Radhika Mishra ma’am",
+                    "message":"It is a long established fact that a reader will be distracted a long exam fact that a reader will be distracted by the readable content of a page example looking at its layout. The point of using Lorem Ipsum is that it ha f using Lorem.",
+                    "time":"10:45 AM",
+                    "media":[
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"pdf",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053032315-2-digit-addition-answerkey.pdf",
+                            "thumb_url":""
+                        }
+                    ]
+                },
+                {
+                    "user_name":"Maharaja Agrsen Public School",
+                    "message":"It is a long established fact that a reader will be distracted a long exam fact that a reader will be distracted by the readable content of a page example looking at its layout. The point of using Lorem Ipsum is that it ha f using Lorem.",
+                    "time":"12:00 AM",
+                    "media":[
+                        {
+                            "media_type":"video",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053371086-big_buck_bunny_720p_5mb.mp4",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"video",
+                            "medial_url":"https://www.youtube.com/watch?v=mkggXE5e2yk",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"docx",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668053530011-grade-3-order-operations-add-sub-3-a.docx",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"audio",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052999180-file_example_MP3_700KB.mp3",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        }
+                    ]
+                },
+                {
+                    "user_name":"Amit Sharma",
+                    "message":"It is a long established fact that a reader will be distracted a long exam fact that a reader will be distracted by the readable content of a page example looking at its layout. The point of using Lorem Ipsum is that it ha f using Lorem.",
+                    "time":"12:00 AM",
+                    "media":[
+                        {
+                            "media_type":"audio",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052999180-file_example_MP3_700KB.mp3",
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        },
+                        {
+                            "media_type":"image",
+                            "medial_url":"https://bmdbzt55yxqo.compat.objectstorage.ap-mumbai-1.oraclecloud.com/dev-saarthi/uploads/1668052965876-Kachaa-banana.jpg",  
+                            "thumb_url":""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

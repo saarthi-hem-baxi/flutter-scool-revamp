@@ -1,0 +1,51 @@
+import 'package:students/constants/app_constants.dart';
+
+class AuthImageAssets {
+  static const String basePath = '${AppConstants.baseImageAssetsPath}auth/';
+  static const String slider1BgS1 = '${basePath}bg_s1.svg';
+  static const String slider1CoverImage = '${basePath}updated1.png';
+  static const String slider1Book = '${basePath}book.svg';
+  static const String slider1Decorator1 = '${basePath}s1_2.svg';
+  static const String slider2BgS2 = '${basePath}bg_s2.svg';
+  static const String slider2CoverImage = '${basePath}updated2.png';
+  static const String slider2Decorator1 = '${basePath}s2_1.svg';
+  static const String slider2Decorator2 = '${basePath}s2_2.svg';
+  static const String slider2Decorator3 = '${basePath}s2_3.svg';
+  static const String slider3BgS1 = '${basePath}bg_s1.svg';
+  static const String slider3CoverImage = '${basePath}updated3.png';
+  static const String slider3Magnet = '${basePath}magnet.svg';
+  static const String slider3Decorator1 = '${basePath}s3_1.svg';
+  static const String slider3Decorator2 = '${basePath}s3_2.svg';
+  static const String slider4BGs1 = '${basePath}bg_s1.svg';
+  static const String slider4CoverImage = '${basePath}updated4.png';
+  static const String slider4Decorator1 = '${basePath}s4_1.svg';
+  static const String slider4Decorator2 = '${basePath}s4_2.svg';
+  static const String slider4Decorator3 = '${basePath}s4_4.svg';
+
+  static const String user = '${basePath}user.svg';
+  static const String unlock = '${basePath}unlock.svg';
+  static const String passwordVisible = '${basePath}password_visible.svg';
+  static const String passwordHide = '${basePath}password_hide.svg';
+  static const String rightArrow = '${basePath}right_arrow.svg';
+  static const String lock = '${basePath}lock.png';
+  static const String email = '${basePath}email.svg';
+  static const String password = '${basePath}password.png';
+  static const String editPencil = '${basePath}edit_pencil.svg';
+  static const String board = '${basePath}board.png';
+  static const String customerCare = '${basePath}customer_care.png';
+  static const String emailYellow = '${basePath}email_yellow_icon.png';
+  static const String phoneCall = '${basePath}phone_call_icon.png';
+  static const String handShake = '${basePath}handshake.png';
+  static const String school = '${basePath}school.svg';
+  static const String building = '${basePath}building.svg';
+  static const String search = '${basePath}search.svg';
+  static const String schoolPlaceholder = '${basePath}school_placeholder.svg';
+  static const String closeIcon = '${basePath}close_icon.svg';
+  static const String boyIcon = '${basePath}boy.svg';
+  static const String girlIcon = '${basePath}girl.svg';
+  static const String toastRight = '${basePath}toast_right.svg';
+  static const String childernGroup = '${basePath}childern_group.svg';
+  static const String animatedMessageIcon = '${basePath}animted_message_icon.gif';
+  static const String saarthiHangingLogo = '${basePath}sarthi_hanging_logo.svg';
+  static const String lightRays = '${basePath}light_rays.svg';
+}
